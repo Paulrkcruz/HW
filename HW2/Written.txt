@@ -1,0 +1,1 @@
+Paul CruzCS5001HW2: Strings and ConditionalsWritten ComponentQuestion 1:a) 1, 2, 3, 6b) 1, 4, 5, 6c) 1, 6Question 2:juice_name = (first_fruit[:num_letters]) + "-" + (second_fruit)Question 3:a) Worldb) HelloWorldc) x = 5Question 4:a) eeeeb) Cheer!c) Cheer Beard) CHEER BEAR
